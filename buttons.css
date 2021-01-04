@@ -1,0 +1,34 @@
+<!-- this is  a css file -->
+#roundbutton{
+  padding: 10px;
+  width: 35%;
+  height: 20px;
+  border-radius: 20px;
+  border : 1px solid #E9E9E9;
+}
+<!-- this is shadow for google search bar -->
+input:hover, input:active {
+	cursor: pointer;
+	box-shadow: 0 1px 1px 0 #E9E9E9, 0 1px 1px 0 #E9E9E9;
+}
+.input-icons i { 
+            position: absolute; 
+            padding-top: 15px;
+            padding-bottom: 10px;
+            padding-left: 15px;
+            color: #D2D2D2;
+        } 
+          
+        .input-icons { 
+            width: 100%; 
+            margin-bottom: 30px; 
+        } 
+
+<!-- css property for buttons -->
+#buttons {
+  padding: 10px;
+  margin: 5px;
+  border: none;
+  color: rgb(34,34,34);
+  font-size: 13px;
+}
